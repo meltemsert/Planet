@@ -8,7 +8,7 @@ public enum Planet {
     JUPITER(5, 5.2, 11.2, 9.9),
     SATURN(6, 9.58, 9.45, 10.7),
     URANUS(7, 19.22, 4.0, -17.2),
-    NEPTüN(8, 30.05, 3.88, 16.1);
+    NEPTUN(8, 30.05, 3.88, 16.1);
 
     private int sortingNumber;
     private double distance;
