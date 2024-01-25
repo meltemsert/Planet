@@ -3,7 +3,7 @@ package com.java;
 public class Main {
     public static void main(String[] args) {
         System.out.println("planets in the solar system");
-        System.out.println("----------");
+        System.out.println("----------------");
 
         for(Planet planet:Planet.values()){
             System.out.println("Sorting Number: " + planet.getSortingNumber());
