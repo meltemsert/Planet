@@ -2,13 +2,13 @@ package com.java;
 
 public enum Planet {
     MERKUR(1, 0.39, 0.38, 58.6),
-    VENÜS(2, 0.72, 0.95, -243),
-    DÜNYA(3, 1, 1, 1),
+    VENUS(2, 0.72, 0.95, -243),
+    DUNYA(3, 1, 1, 1),
     MARS(4, 1.52, 0.53, 24.6),
-    JÜPİTER(5, 5.2, 11.2, 9.9),
-    SATÜRN(6, 9.58, 9.45, 10.7),
-    URANÜS(7, 19.22, 4.0, -17.2),
-    NEPTÜN(8, 30.05, 3.88, 16.1);
+    JUPITER(5, 5.2, 11.2, 9.9),
+    SATURN(6, 9.58, 9.45, 10.7),
+    URANUS(7, 19.22, 4.0, -17.2),
+    NEPTUN(8, 30.05, 3.88, 16.1);
 
     private int sortingNumber;
     private double distance;
